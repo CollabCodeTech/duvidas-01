@@ -1,0 +1,7 @@
+.example {
+  font-size: 40px;
+}
+
+.example::first-letter {
+  color: red;
+}
